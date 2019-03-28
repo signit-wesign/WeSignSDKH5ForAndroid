@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeSignSDKDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="todo">TODO</string>
+    <string name="sdkdemo">易企签SDKDemo</string>
+</resources>
